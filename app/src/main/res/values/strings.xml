@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Medei</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title">Sign up for clinical trial here</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="submitButton">Submit</string>
+
+
 </resources>
